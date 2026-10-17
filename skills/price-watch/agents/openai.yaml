@@ -1,0 +1,4 @@
+interface:
+  display_name: "Safari 價格監控"
+  short_description: "Manage Safari price watches with a local verified registry"
+  default_prompt: "使用 $price-watch 管理 Safari 商品價格監控與本機清單。"

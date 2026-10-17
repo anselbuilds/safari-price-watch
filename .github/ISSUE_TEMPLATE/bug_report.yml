@@ -1,0 +1,20 @@
+name: Bug report
+description: Report a reproducible issue using synthetic data.
+body:
+  - type: markdown
+    attributes:
+      value: Do not include real watchlists, private URLs, browser profiles, credentials or purchase history. Use private vulnerability reporting for sensitive security issues.
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Python, OS, skill version and (only if relevant) Safari version.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Synthetic reproduction
+      description: Commands or steps, expected result and observed result. Distinguish local registry state, native settings and actual notification delivery.
+    validations:
+      required: true

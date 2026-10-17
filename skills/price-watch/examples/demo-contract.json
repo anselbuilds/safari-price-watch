@@ -1,0 +1,24 @@
+{
+  "url": "https://example.com/products/demo-ssd",
+  "title": "Synthetic SSD",
+  "variant": "2TB / DEMO-2000 / one unit",
+  "seller": "Example seller",
+  "condition": "new",
+  "quantity": 1,
+  "region": "Example region",
+  "currency": "USD",
+  "target": "80.00",
+  "operator": "lte",
+  "price_basis": "listed",
+  "stock_rule": "in_stock",
+  "schedule": "Daily at 09:00",
+  "timezone": "Etc/UTC",
+  "expires_at": null,
+  "baseline": {
+    "price": "100.00",
+    "observed_at": "2020-01-01T00:00:00+00:00",
+    "stock": "in_stock",
+    "evidence": "Synthetic fixture; no real product observation"
+  },
+  "purpose": "Local demonstration only; do not create a Safari watch"
+}
