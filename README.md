@@ -2,7 +2,7 @@
 
 [繁體中文](README.zh-Hant.md)
 
-Prepare price-watch conditions, keep a local registry and generate a setup card for Safari Notify Me. Safari performs background checks and notifications; the Python helper only stores conditions, verification evidence and history. It does not fetch prices, schedule checks, send notifications or operate Safari.
+This repository is archived. The skill is now maintained at [anselbuilds/agent-skills](https://github.com/anselbuilds/agent-skills/tree/main/skills/price-watch).
 
 **Experimental v0.1.0 prerelease.** Created and maintained by Ansel under [MIT](LICENSE).
 
